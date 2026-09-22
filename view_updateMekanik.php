@@ -54,7 +54,7 @@ if (isset($_GET["updateID"])) {
                 if (isset($mekanik)) {
                 ?>
 
-                    <form method="POST" action="controller_mekanik.php" class="w-75 mx-auto">
+                    <form method="POST" action="controller_mekanik.php" class="w-75 mx-auto" autocomplete="off">
 
                         <div class="form-row">
                             <div class="form-group col-md-12">

@@ -37,7 +37,7 @@
             </div>
             <div class="card-body">
               <h1>Kendaraan baru</h1>
-              <form method="POST" action="controller_kendaraan.php" class="w-75 mx-auto">
+              <form method="POST" action="controller_kendaraan.php" class="w-75 mx-auto" autocomplete="off"> 
                 <div class="form-row">
                   <div class="form-group col-md-12">
                     <label for="inputNoPolisi">No Polisi</label>

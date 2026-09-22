@@ -44,7 +44,7 @@ require("controller_mekanik.php");
                         <div class="card-body">
                             <h1>Mekanik Baru</h1>
 
-                            <form method="POST" action="controller_mekanik.php" class="w-75 mx-auto">
+                            <form method="POST" action="controller_mekanik.php" class="w-75 mx-auto" autocomplete="off">
 
                                 <div class="form-row">
                                     <div class="form-group col-md-12">
