@@ -5,5 +5,6 @@ class model_kendaraan{
     public $tipe;
     public $tahun;
     public $catatan;
+    public $mekanikID;
 }
 ?>
